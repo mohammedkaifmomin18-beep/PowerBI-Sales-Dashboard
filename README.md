@@ -40,10 +40,24 @@ This Power BI dashboard analyzes retail sales performance, profit trends, custom
 ---
 
 ## 💡 Business Insights
-- Technology category generates highest sales
-- Consumer segment contributes maximum revenue
-- Certain regions show lower profitability
-- Top products contribute significant sales volume
+
+- Technology category generated the highest sales revenue.
+- Consumer segment contributed more than 50% of total sales.
+- West region showed strong profitability performance.
+- Top 10 products significantly impacted overall revenue.
+- Office Supplies had stable sales but lower profit margins.
+- Profit margin across all sales remained around 11.6%.
+- High sales concentration observed among a few key customers.
+
+---
+
+## 📌 Recommendations
+
+- Increase focus on high-performing Technology products.
+- Improve profitability in low-margin categories.
+- Target Consumer segment with personalized campaigns.
+- Expand successful sales strategies to underperforming regions.
+- Monitor top-selling products to avoid stock shortages.
 
 ---
 
