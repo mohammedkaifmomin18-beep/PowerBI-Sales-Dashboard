@@ -51,6 +51,14 @@ This Power BI dashboard analyzes retail sales performance, profit trends, custom
 
 ---
 
+Key Insights:
+• Technology leads total revenue
+• West region drives highest profit
+• Consumer segment contributes 51% sales
+• Top 10 products generate major revenue share
+
+---
+
 ## 📌 Recommendations
 
 - Increase focus on high-performing Technology products.
